@@ -33,14 +33,6 @@ I'm a **1st-year Cybersecurity undergraduate** at the **Universidad Tecnológica
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidgomez&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect with Me
 - 🏫 **University:** Universidad Tecnológica de Panamá (UTP)
 - 🎓 **Major:** Cybersecurity (Licenciatura en Ciberseguridad)
